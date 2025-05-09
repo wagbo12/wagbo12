@@ -11,9 +11,17 @@
 - 💻 I build full-stack web applications using modern frameworks like React, Node.js, and Angular.
 - 🔍 I troubleshoot complex hardware/software issues across Windows, macOS, and Linux.
 - 🛠️ I maintain cloud infrastructure (AWS, Azure) and CI/CD pipelines for streamlined deployments.
+- ✅ Apply Agile/Scrum practices to deliver cross-functional projects on time and under budget  
+- 🔐 Promote secure practices with a basic understanding of GRC frameworks and IT compliance 
 
 ---
 
+### 🎓 Education & Certifications
+- 🎓 **BSc (Hons), Computer Science** – Trent University  
+- 📜 **Certified in Project Management (Scrum Master)** – Udemy (Completed)  
+- ☁️ **AWS Cloud Practitioner** – Udemy (In Progress)  
+
+---
 ### 🧰 Tech Stack & Tools
 **Languages:** JavaScript, Python, TypeScript, C#, SQL, HTML/CSS  
 **Frameworks:** React, Angular, Node.js, Express, .NET Core  
