@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Williams Agbo!
 
-🎯 Software Engineer |Technology Support Analyst | Full Stack Developer | Cyber Security Enthusiast  
+🎯 Software Engineer | Technology Support Analyst | Full Stack Developer | Cyber Security Enthusiast  
 🌐 Passionate about building accessible, scalable, and user-centered digital solutions.  
 📍 Based in Toronto, ON, & Victoria, BC, Canada
 
