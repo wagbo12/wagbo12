@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Williams Agbo!
 
-🎯 Software Engineer | Technology Support Analyst | Full Stack Developer | Cyber Security Enthusiast  
+🎯 Software Engineer | Data/Technical Analyst | Full Stack Developer | Cyber Security Enthusiast  
 🌐 Passionate about building accessible, scalable, and user-centered digital solutions.  
 📍 Based in Toronto, ON, & Victoria, BC, Canada
 
@@ -19,7 +19,8 @@
 ### 🎓 Education & Certifications
 - 🎓 **BSc (Hons), Computer Science** – Trent University  
 - 📜 **Certified in Project Management (Scrum Master)** – Udemy (Completed)  
-- ☁️ **AWS Cloud Practitioner** – Udemy (In Progress)  
+- ☁️ **AWS Cloud Practitioner** – Udemy (In Progress)
+- ☁️ **MS Azure AI - 900** – MicroSoft (In Progress)
 
 ---
 ### 🧰 Tech Stack & Tools
