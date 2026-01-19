@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 What I Do
-- 🧠 I provide hands-on AV/VC and tech support across live distributed environments.
 - 💻 I build full-stack web applications using modern frameworks like React, Node.js, and Angular.
 - 🔍 I troubleshoot complex hardware/software issues across Windows, macOS, and Linux.
 - 🛠️ I maintain cloud infrastructure (AWS, Azure) and CI/CD pipelines for streamlined deployments.
+- 🧠 I provide hands-on tech support across live distributed environments.
 - ✅ Apply Agile/Scrum practices to deliver cross-functional projects on time and under budget  
 - 🔐 Promote secure practices with a basic understanding of GRC frameworks and IT compliance 
 
@@ -20,7 +20,7 @@
 - 🎓 **BSc (Hons), Computer Science** – Trent University  
 - 📜 **Certified in Project Management (Scrum Master)** – Udemy (Completed)  
 - ☁️ **AWS Cloud Practitioner** – Udemy (In Progress)
-- ☁️ **MS Azure AI - 900** – MicroSoft (In Progress)
+- ☁️ **MS Azure AI - 900** – MicroSoft (completed)
 
 ---
 ### 🧰 Tech Stack & Tools
